@@ -11,8 +11,8 @@
 	该文件中对单词库和语音包的位置做了相应的规定。
 	运行exe前请把”wordData.txt” 和” wav”这两个文件放在指定位置。
 	文件路径和要求如下所示：
-		wordData.txt路径：D:\wordData.txt
-		“wav”文件夹改名为”1”后，放置路径：D:\1
+ 		wordData.txt路径：D:\wordData.txt
+		“wav”文件夹改名为”1”后，放置路径：D:\1
 ### programmer- improved.cpp
 	优化过后的完整代码，适用于词库内单词数量较大的情况。
 	对programmer.cpp程序中的词库检索方法做了改进，优化了随机数查重避免单词重复。
